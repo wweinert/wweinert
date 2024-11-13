@@ -1,1 +1,4 @@
 
+Look i want to create a telegram bot that should help its users to find the right job for them. I create it in Node js and Telegraf. you can check what already developed. The first thing is that i want to search in my own database. It means no 3rd party services like stepstone or indeed. The second thing is that i don't want to create standard telegram bot where you have to enter just correct thing. That is why i started to use AI for it to meke the chat more conversational. But the problem is that i don't know how can i get the criteria of the job from the user's conversation with the AI.
+
+GG_API="https://api.getgenius.ai/api/pipeline/ai/execute.json?input"
