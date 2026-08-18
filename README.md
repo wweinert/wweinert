@@ -5,11 +5,9 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" title="Node.js" alt="Node.js" />&nbsp;
 # Hi, I'm Waldemar 👋
 
-I am a junior backend-focused fullstack developer finishing my apprenticeship as a **Fachinformatiker für Anwendungsentwicklung**.
+I am a backend-focused fullstack developer and my main focus is building practical web and mobile applications with **JavaScript**, **TypeScript**, **Node.js**, **REST APIs**, databases and modern frontend/mobile technologies.
 
-My main focus is building practical web and mobile applications with **JavaScript**, **TypeScript**, **Node.js**, **REST APIs**, databases and modern frontend/mobile technologies.
-
-I enjoy working on backend logic, API design, data handling and clear application structure. I am currently looking for a **Junior Backend / Fullstack Developer** role where I can grow in a professional development team and contribute to real software projects.
+I enjoy working on backend logic, API design, data handling and clear application structure. I am currently looking for a **Backend / Fullstack Developer** role where I can grow in a professional development team and contribute to real software projects.
 
 ## 🚀 Featured Projects
 
@@ -66,14 +64,3 @@ Repository: [ServicePlus](https://github.com/wweinert/ServicePlus)
 **Databases:** PostgreSQL, MongoDB  
 **Languages:** JavaScript, TypeScript  
 **Tools:** Git, GitHub, Postman, Docker basics
-
-## 🎯 Current Focus
-
-- Finishing my IHK final examination
-- Improving backend development with Node.js, TypeScript and databases
-- Building clean and understandable portfolio projects
-- Preparing for a Junior Backend / Fullstack Developer role
-
-## 🔗 Links
-
-- LinkedIn: [linkedin.com/in/wweinert](https://www.linkedin.com/in/wweinert/)
