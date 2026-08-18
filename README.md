@@ -53,7 +53,7 @@ Repository: [capital-api-bot](https://github.com/wweinert/capital-api-bot)
 
 A mobile service-management application prototype with state management, image handling and external service integration.
 
-**Tech:** React Native, Expo, Redux Toolkit, Firebase, Axios
+**Tech:** React Native, Expo, Redux Toolkit, Axios
 
 Repository: [ServicePlus](https://github.com/wweinert/ServicePlus)
 
